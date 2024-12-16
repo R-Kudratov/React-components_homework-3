@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #fcd9b8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+}
